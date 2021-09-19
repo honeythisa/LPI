@@ -1,2 +1,2 @@
 # LPI
- Meus primeiros exercícios com Python :)
+ Meus primeiros programas com Python :)
